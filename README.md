@@ -1,7 +1,4 @@
 <h1 align="center">Workshop: Inference of Polygenic Risk Scores from Biobank Data</h1>
-<br>
-<h2 align="center">Shadi Zabad</h2>
-<h3 align="center">McGill University, Montreal, Canada</h3>
 
 Quick links:
 
