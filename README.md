@@ -1,4 +1,4 @@
-<h1 align="center">Workshop: Inference of Polygenic Risk Scores from Biobank Data</h1>
+<h1 align="center">Tutorial for Inference of Polygenic Risk Scores from Biobank Data</h1>
 
 Quick links:
 
